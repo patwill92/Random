@@ -1,0 +1,11 @@
+#box{
+	height:150px; 
+	width:150px; 
+	background-color:orange; 
+	margin:25px;
+	opacity: 1.0;
+}
+
+.blue{
+	background-color: blue;
+}
